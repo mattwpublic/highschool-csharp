@@ -1,0 +1,16 @@
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\obj\Debug\netcoreapp3.1\WidemanCalculator.csproj.AssemblyReference.cache
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\obj\Debug\netcoreapp3.1\WidemanCalculator.Form1.resources
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\obj\Debug\netcoreapp3.1\WidemanCalculator.csproj.GenerateResource.cache
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\obj\Debug\netcoreapp3.1\WidemanCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\obj\Debug\netcoreapp3.1\WidemanCalculator.AssemblyInfoInputs.cache
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\obj\Debug\netcoreapp3.1\WidemanCalculator.AssemblyInfo.cs
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\obj\Debug\netcoreapp3.1\WidemanCalculator.csproj.CoreCompileInputs.cache
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\bin\Debug\netcoreapp3.1\WidemanCalculator.exe
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\bin\Debug\netcoreapp3.1\WidemanCalculator.deps.json
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\bin\Debug\netcoreapp3.1\WidemanCalculator.runtimeconfig.json
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\bin\Debug\netcoreapp3.1\WidemanCalculator.runtimeconfig.dev.json
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\bin\Debug\netcoreapp3.1\WidemanCalculator.dll
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\bin\Debug\netcoreapp3.1\WidemanCalculator.pdb
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\obj\Debug\netcoreapp3.1\WidemanCalculator.dll
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\obj\Debug\netcoreapp3.1\WidemanCalculator.pdb
+C:\Users\moofu\source\repos\WidemanCalculator\WidemanCalculator\obj\Debug\netcoreapp3.1\WidemanCalculator.genruntimeconfig.cache

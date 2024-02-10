@@ -1,0 +1,16 @@
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\obj\Debug\netcoreapp3.1\WidemanDrawName.csproj.AssemblyReference.cache
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\obj\Debug\netcoreapp3.1\WidemanDrawName.Form1.resources
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\obj\Debug\netcoreapp3.1\WidemanDrawName.csproj.GenerateResource.cache
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\obj\Debug\netcoreapp3.1\WidemanDrawName.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\obj\Debug\netcoreapp3.1\WidemanDrawName.AssemblyInfoInputs.cache
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\obj\Debug\netcoreapp3.1\WidemanDrawName.AssemblyInfo.cs
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\obj\Debug\netcoreapp3.1\WidemanDrawName.csproj.CoreCompileInputs.cache
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\bin\Debug\netcoreapp3.1\WidemanDrawName.exe
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\bin\Debug\netcoreapp3.1\WidemanDrawName.deps.json
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\bin\Debug\netcoreapp3.1\WidemanDrawName.runtimeconfig.json
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\bin\Debug\netcoreapp3.1\WidemanDrawName.runtimeconfig.dev.json
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\bin\Debug\netcoreapp3.1\WidemanDrawName.dll
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\bin\Debug\netcoreapp3.1\WidemanDrawName.pdb
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\obj\Debug\netcoreapp3.1\WidemanDrawName.dll
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\obj\Debug\netcoreapp3.1\WidemanDrawName.pdb
+C:\Users\moofu\source\repos\WidemanDrawName\WidemanDrawName\obj\Debug\netcoreapp3.1\WidemanDrawName.genruntimeconfig.cache

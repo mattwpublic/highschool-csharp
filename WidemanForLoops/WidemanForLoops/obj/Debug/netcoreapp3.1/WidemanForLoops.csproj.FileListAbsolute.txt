@@ -1,0 +1,16 @@
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\bin\Debug\netcoreapp3.1\WidemanForLoops.exe
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\bin\Debug\netcoreapp3.1\WidemanForLoops.deps.json
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\bin\Debug\netcoreapp3.1\WidemanForLoops.runtimeconfig.json
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\bin\Debug\netcoreapp3.1\WidemanForLoops.runtimeconfig.dev.json
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\bin\Debug\netcoreapp3.1\WidemanForLoops.dll
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\bin\Debug\netcoreapp3.1\WidemanForLoops.pdb
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\obj\Debug\netcoreapp3.1\WidemanForLoops.csproj.AssemblyReference.cache
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\obj\Debug\netcoreapp3.1\WidemanForLoops.Form1.resources
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\obj\Debug\netcoreapp3.1\WidemanForLoops.csproj.GenerateResource.cache
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\obj\Debug\netcoreapp3.1\WidemanForLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\obj\Debug\netcoreapp3.1\WidemanForLoops.AssemblyInfoInputs.cache
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\obj\Debug\netcoreapp3.1\WidemanForLoops.AssemblyInfo.cs
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\obj\Debug\netcoreapp3.1\WidemanForLoops.csproj.CoreCompileInputs.cache
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\obj\Debug\netcoreapp3.1\WidemanForLoops.dll
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\obj\Debug\netcoreapp3.1\WidemanForLoops.pdb
+C:\Users\moofu\source\repos\WidemanForLoops\WidemanForLoops\obj\Debug\netcoreapp3.1\WidemanForLoops.genruntimeconfig.cache
